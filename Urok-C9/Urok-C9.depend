@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1604889583 source:c:\users\u1\programing\programc\urok-c9\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<locale.h>
+
